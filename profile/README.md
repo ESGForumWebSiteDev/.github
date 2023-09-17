@@ -60,4 +60,5 @@
 
 # 6. :pencil2: ご連絡に際しては
 - メール : gimyumin40@gmail.com
-- [ソースコードリポジトリ](https://github.com/Tabeyouka/project_TABEYOUKA_main-deployment-repo)
+- [フロントエンドソースコードリポジトリ](https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_react-deployment-repo)
+- [バックエンドソースコードリポジトリ](https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_laravel-deployment-repo)
