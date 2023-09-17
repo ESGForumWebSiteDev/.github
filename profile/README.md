@@ -4,10 +4,6 @@
     <img src="https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_main-deployment-repo/assets/55650732/248f935f-a82f-44a3-bda5-50a8681b8681" width="100" alt="logo"/>
 </div>
 
-> 大学ESG実践フォーラムウェブサイト
-
----
-<br>
 
 # 1. サービス紹介
 > 大学ESG実践フォーラムウェブサイト
