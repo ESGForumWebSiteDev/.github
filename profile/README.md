@@ -59,6 +59,7 @@
 <br>
 
 # 6. :pencil2: ご連絡に際しては
+- URL : [Link](http://15.165.129.233/)
 - メール : gimyumin40@gmail.com
 - [フロントエンドソースコードリポジトリ](https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_react-deployment-repo)
 - [バックエンドソースコードリポジトリ](https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_laravel-deployment-repo)
