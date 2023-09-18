@@ -11,10 +11,10 @@
 <br>
 
 # 2. チームメンバー紹介
-|                                         [キム・ユミン](https://github.com/yuminn-k)                                          |                                         [カン・ジュウォン](https://github.com/Z00One)                                          |                                         [イ・ジェイル](https://github.com/Jaeil-Lee)                                          |                                         [イ・ジュヒョン](https://github.com/d556f8)                                    
+|                                         [キム・ユミン](https://github.com/yuminn-k)                                          |                                         [イ・ジェイル](https://github.com/Jaeil-Lee)                                          |                                         [カン・ジュウォン](https://github.com/Z00One)                                          |                                         [イ・ジュヒョン](https://github.com/d556f8)                                    
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/55650732?v=4" width=400px alt="ユミン"/> | <img src="https://avatars.githubusercontent.com/u/102473964?v=4" width=400px alt="ジュウォン"/> | <img src="https://avatars.githubusercontent.com/u/108773192?v=4" width=400px alt="ジェイル"> | <img src="https://avatars.githubusercontent.com/u/64972038?v=4" width=400px alt="ジュヒョン"/> | 
-|                       Project Leader                        |                            Full-Stack                            |                            Frontend                            |                          Full-Stack                          
+| <img src="https://avatars.githubusercontent.com/u/55650732?v=4" width=400px alt="ユミン"/> | <img src="https://avatars.githubusercontent.com/u/108773192?v=4" width=400px alt="ジェイル"> | <img src="https://avatars.githubusercontent.com/u/102473964?v=4" width=400px alt="ジュウォン"/> | <img src="https://avatars.githubusercontent.com/u/64972038?v=4" width=400px alt="ジュヒョン"/> | 
+|                       Project Leader                        |                            Frontend                            |                            Full-Stack                            |                          Full-Stack                          
 ---
 <br>
 
