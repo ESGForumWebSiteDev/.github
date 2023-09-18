@@ -1,4 +1,4 @@
-# [ESGForum]()
+# [ESGForum](http://15.165.129.233/)
 
 <div align="center" style="display:flex;">
     <img src="https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_main-deployment-repo/assets/55650732/248f935f-a82f-44a3-bda5-50a8681b8681" width="100" alt="logo"/>
@@ -64,6 +64,5 @@
 
 # 6. :pencil2: ご連絡に際しては
 - メール : [gimyumin40@gmail.com](mailto:gimyumin40@gmail.com)
-- URL : [Link](http://15.165.129.233/)
 - [フロントエンドソースコードリポジトリ](https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_react-deployment-repo)
 - [バックエンドソースコードリポジトリ](https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_laravel-deployment-repo)
