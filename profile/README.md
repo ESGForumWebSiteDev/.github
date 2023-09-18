@@ -33,6 +33,7 @@
 
 # 4. プロジェクト構造
 
+![stru](https://github.com/ESGForumWebSiteDev/project_ESGForumWebSiteDev_main-deployment-repo/assets/55650732/6570734f-2be8-4e08-b1c4-161baaec9e38)
 ---
 <br>
 
