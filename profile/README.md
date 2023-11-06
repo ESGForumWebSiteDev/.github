@@ -1,7 +1,7 @@
 # [ESGForum](http://15.165.129.233/)
 
 <div align="center" style="display:flex;">
-    <img src="https://github.com/ESGForumWebSiteDev/.github/assets/102473964/197feb8f-51a3-4cfd-800d-43da17e64938" width="100" alt="logo"/>
+    <img src="https://github.com/ESGForumWebSiteDev/.github/assets/102473964/f948dee2-5cc6-48fe-be60-88089ddae2be" width="100" alt="logo"/>
 </div>
 
 
